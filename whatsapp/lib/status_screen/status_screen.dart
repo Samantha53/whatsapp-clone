@@ -19,7 +19,7 @@ class Status_screen extends StatelessWidget {
     ),
      StatusDetails(
        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHyK4sJ-9lsYzszahONDb6vL5gnliy1kN9Q&usqp=CAU",
-        name: "Arun",
+        name: "vvv",
         updateAt: "Today,9:00 am",
         isStatus: true,
     ),
